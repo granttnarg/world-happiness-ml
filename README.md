@@ -60,13 +60,15 @@ This dataset is designed for **explanatory analysis** (understanding what factor
 - Importance of domain knowledge in data science
 - Critical evaluation of model performance metrics
 
-## Check Requirements.txt for needed libraries. Running on Python 3.13.x
+## Dependencies
 
-- Python
+- Python 3.13.x
 - Pandas
 - NumPy
 - Matplotlib/Seaborn
 - Scikit-learn
+- Missingno
+- Scikit Learn
 
 ## Note
 

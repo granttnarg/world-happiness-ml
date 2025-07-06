@@ -5,3 +5,4 @@ missingno
 scikit-learn
 seaborn
 matplotlib
+notebook

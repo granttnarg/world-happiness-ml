@@ -5,3 +5,5 @@ matplotlib
 scikit-learn
 intuitiveml
 notebook
+ipython
+missingno

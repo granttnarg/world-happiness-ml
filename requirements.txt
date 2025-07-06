@@ -1,9 +1,7 @@
-pandas
 numpy
-seaborn
-matplotlib
-scikit-learn
-intuitiveml
-notebook
+pandas
 ipython
 missingno
+scikit-learn
+seaborn
+matplotlib
